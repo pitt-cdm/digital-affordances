@@ -14,6 +14,7 @@ For this particular assignment, I'm asking you to work in groups to apply the id
 1. To start, the team anchor should **Fork this repository,** using the button at the top right. ![location of fork button in github](github-fork-button.png)
 2. Once you have your own copy, go into your Settings...  ![location of settings button in github](github-settings.png)
 3. ... and **add your groupmates as collaborators**. (You'll need to ask for their usernames or email addresses.)![add collaborators, not teams](github-add-collaborators.png)
+4. Everyone else will need to check their email and accept the invitation.
 
 ### II. Do the work
 1. **Create a new file**, named for one of the five principles in Sorapure: numerical-representation.md, modularity.md, automation.md, variability.md, or transcoding.md
@@ -23,6 +24,7 @@ For this particular assignment, I'm asking you to work in groups to apply the id
 2. In that file, you're going to **make a list** of examples of where you've seen that principle in action.
    - What does this principle help you notice in conjunction with [Wesch's "Information R/evolution"](http://www.youtube.com/watch?v=-4CV05HyAbM) video, for example?
    - What other examples from your digital day-to-day come to mind as you think about this principle?
+<!-- FOR NEXT TIME: as your first commit, put in about ten blank lines. Then each person can edit a different line, without conflicting with each other when you merge. -->
 3. **Take turns** adding to the file, saving as you go, so that **everyone in the group gets to make at least one commit.**
    - Use meaningful commit messages.
    - Think of the main commit message as the subject line of an email, and the optional extension as the email body.
