@@ -19,7 +19,7 @@ For this particular assignment, I'm asking you to work in groups to apply the id
 1. **Create a new file**, named for one of the five principles in Sorapure: numerical-representation.md, modularity.md, automation.md, variability.md, or transcoding.md
    - Five groups, so each group will start with a different file.
    - Note that filenaming convention: all lowercase, no spaces.
-   - The .md file extension lets you use ["markdown" syntax](https://guides.github.com/features/mastering-markdown/), but you can ignore this for now if you want.
+   - The .md file extension lets you use ["markdown" syntax](https://guides.github.com/features/mastering-markdown/), like using asterisks to mark list items.
 2. In that file, you're going to **make a list** of examples of where you've seen that principle in action.
    - What does this principle help you notice in conjunction with [Wesch's "Information R/evolution"](http://www.youtube.com/watch?v=-4CV05HyAbM) video, for example?
    - What other examples from your digital day-to-day come to mind as you think about this principle?
