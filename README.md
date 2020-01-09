@@ -24,10 +24,10 @@ For this particular assignment, I'm asking you to work in groups to apply the id
 2. In that file, you're going to **make a list** of examples of where you've seen that principle in action.
    - What does this principle help you notice in conjunction with [Wesch's "Information R/evolution"](http://www.youtube.com/watch?v=-4CV05HyAbM) video, for example?
    - What other examples from your digital day-to-day come to mind as you think about this principle?
-<!-- FOR NEXT TIME: as your first commit, put in about ten blank lines. Then each person can edit a different line, without conflicting with each other when you merge. -->
+   - **As your first commit, put in about ten blank lines.** This should allow each member of the group to later edit simultaneously, without conflicting with each other when you merge.
 3. **Take turns** adding to the file, saving as you go, so that **everyone in the group gets to make at least one commit.**
-   - Use meaningful commit messages.
-   - Think of the main commit message as the subject line of an email, and the optional extension as the email body.
-4. Consider: Manovich was talking about "new media," not "digital media." Is there a difference? If time allows, **make some notes.**
+   - Use meaningful commit messages: rather than accept the default of "update modularity.md" (which tells us nothing about _how_ you've updated it), write something like "add example from news websites."
+   - If you're patient enough to go one at a time, you can commit straight to the main branch without deleting each other's contributions. But to edit at the same time and _merge_ the edits, practice using _pull requests_ instead. This ensures you're always adding to the most recent version, even if it's changed since you started your edit.
+4. All done with the above? Consider: Manovich was talking about "new media," not "digital media." Is there a difference? If time allows, **make some notes.**
 
-EXT: If you finish working on one file and are waiting for other groups, go back to step one and move on to the next "principle."
+EXT: If you finish working on one file and are waiting for other groups, go back to step II.1 and move on to the next "principle."
