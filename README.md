@@ -28,6 +28,8 @@ For this particular assignment, I'm asking you to work in groups to apply the id
 3. **Take turns** adding to the file, saving as you go, so that **everyone in the group gets to make at least one commit.**
    - Use meaningful commit messages: rather than accept the default of "update modularity.md" (which tells us nothing about _how_ you've updated it), write something like "add example from news websites."
    - If you're patient enough to go one at a time, you can commit straight to the main branch without deleting each other's contributions. But to edit at the same time and _merge_ the edits, practice using _pull requests_ instead. This ensures you're always adding to the most recent version, even if it's changed since you started your edit.
-4. All done with the above? Consider: Manovich was talking about "new media," not "digital media." Is there a difference? If time allows, **make some notes.**
+   ![pull requests take more clicks, but they're worth it when working with collaborators](github-pull-request-sequence-with-arrows.png)
+   
+EXT: All done with the above? Consider: Manovich was talking about "new media," not "digital media." Is there a difference? If time allows, **make some notes.**
 
 EXT: If you finish working on one file and are waiting for other groups, go back to step II.1 and move on to the next "principle."
